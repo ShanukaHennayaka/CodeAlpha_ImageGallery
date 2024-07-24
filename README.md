@@ -1,4 +1,4 @@
-# CodeApha_ImageGallery
+# CodeAlpha_ImageGallery
 This project incorporates a lightbox feature for a better viewing experience along with sophisticated CSS animations to create a beautiful and responsive image gallery.
 # Key Features
 1. Header and Footer Styling: A sleek, contemporary style that maintains the gallery's uniform appearance.
